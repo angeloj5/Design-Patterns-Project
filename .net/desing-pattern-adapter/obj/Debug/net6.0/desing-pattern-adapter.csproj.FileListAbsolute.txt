@@ -1,0 +1,15 @@
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\bin\Debug\net6.0\desing-pattern-adapter.exe
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\bin\Debug\net6.0\desing-pattern-adapter.deps.json
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\bin\Debug\net6.0\desing-pattern-adapter.runtimeconfig.json
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\bin\Debug\net6.0\desing-pattern-adapter.dll
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\bin\Debug\net6.0\desing-pattern-adapter.pdb
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\obj\Debug\net6.0\desing-pattern-adapter.csproj.AssemblyReference.cache
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\obj\Debug\net6.0\desing-pattern-adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\obj\Debug\net6.0\desing-pattern-adapter.AssemblyInfoInputs.cache
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\obj\Debug\net6.0\desing-pattern-adapter.AssemblyInfo.cs
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\obj\Debug\net6.0\desing-pattern-adapter.csproj.CoreCompileInputs.cache
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\obj\Debug\net6.0\desing-pattern-adapter.dll
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\obj\Debug\net6.0\refint\desing-pattern-adapter.dll
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\obj\Debug\net6.0\desing-pattern-adapter.pdb
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\obj\Debug\net6.0\desing-pattern-adapter.genruntimeconfig.cache
+C:\Projects\Design-Patterns-Project\.net\desing-pattern-adapter\obj\Debug\net6.0\ref\desing-pattern-adapter.dll

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cIzNtbpQlU094v9svUgygIItJ+1pr39Fgx1YT9t7fB7IkA0KFz3F79yXBdgVcQgHTjdsqL+tWy1V+O3M6TySTA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Design-Patterns-Project\\.net\\desing-pattern-adapter\\desing-pattern-adapter.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://api.nuget.org/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
